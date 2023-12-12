@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "729303dca9b8baeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c66362662347b5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7d494645d7b82f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hack_the_Box/TRAVERXEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab2403c1188c077f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1dca455f6b7011c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6738f1c4ef7d824e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf69da52611ac108",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cme",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c410250b0fc3c868",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ea9138f38030974",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c92d95c348fa9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f16ce3afd80e5ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hack_the_Box/TRAVERXEC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87b39ac9597b080b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hack_the_Box/TRAVERXEC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66ca82797e43e625",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a132bc8ea100d0b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hack_the_Box/TRAVERXEC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1c7d494645d7b82f",
+  "lastOpenFiles": [
+    "00_Red_Team/Cracking.md",
+    "00_Red_Team/Exfil.md",
+    "00_Red_Team/Exploitation Workflow - Linux.md",
+    "Hack_the_Box/TRAVERXEC.md",
+    "00_Red_Team/Hack the Box (dumping ground).md",
+    "00_Red_Team/Cheat Sheets and Resources.md",
+    "Hack_the_Box",
+    "00_Red_Team/Dictionary.md",
+    "00_Red_Team/Metasploit.md",
+    "00_Red_Team/NMAP.md",
+    "00_Red_Team/WinRM.md",
+    "Pasted image 20231202144404.png",
+    "Pasted image 20231202143545.png",
+    "Untitled.md",
+    "Untitled",
+    "00_Red_Team/Handy Linux Shortcuts.md",
+    "00_Red_Team/Web App.md",
+    "00_Red_Team/Escalation.md",
+    "00_Red_Team/SMB.md",
+    "01_Blue_Team/Forensics.md",
+    "WinRM.md",
+    "Cheat Sheets and Resources.md",
+    "00_Red_Team",
+    "01_Blue_Team",
+    "Handy Linux Shortcuts.md",
+    "Cracking.md",
+    "SMB.md",
+    "Hack the Box (dumping ground).md",
+    "Escalation.md",
+    "Lateral Movement/Untitled.md",
+    "Password Cracking",
+    "Lateral Movement",
+    "Enumeration"
+  ]
+}
