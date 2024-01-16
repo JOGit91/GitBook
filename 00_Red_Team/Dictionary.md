@@ -20,3 +20,5 @@
 
 - **Mask Attack** - A mask attack is a type of brute forcing, where attackers know elements of a password construction and can therefore reduce the amount of guesses they’ll need to get it right. For example, an attacker might know a password is eight characters and the last one is a number. Or they might now a company has a poor policy such as adding the current month and year to the end of passwords when rotating them. Having any sort of definitive information about the makeup of a password can greatly speed up a hybrid attack.
 	- if you're able to determine password policy and can build a wordlist based off that info
+
+- **Honeypoc** - A ‘honeypoc’ is a file released, which purports to be a proof-of-concept exploit for a highly sough after CVE when in reality it is a ruse that includes a canary token, which allows the authors to publish research on the use of publicly available exploits and persons who execute downloaded exploits without reading the source code. https://blog.zsec.uk/cve-2020-1350-honeypoc/

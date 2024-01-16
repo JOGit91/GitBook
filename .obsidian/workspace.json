@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "729303dca9b8baeb",
+    "id": "7d3c44afc64be2ad",
     "type": "split",
     "children": [
       {
-        "id": "0c66362662347b5e",
+        "id": "22d351ac0e05fb7b",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7d494645d7b82f",
+            "id": "64b74460fbc3711d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack_the_Box/TRAVERXEC.md",
+                "file": "Hack_the_Box/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ab2403c1188c077f",
+    "id": "7afaeedfff11e871",
     "type": "split",
     "children": [
       {
-        "id": "d1dca455f6b7011c",
+        "id": "a769f63927de571b",
         "type": "tabs",
         "children": [
           {
-            "id": "6738f1c4ef7d824e",
+            "id": "d91aa8ec7dae4542",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "bf69da52611ac108",
+            "id": "98dc3fc739c7eb57",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "cme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "c410250b0fc3c868",
+            "id": "bf94892807ac7159",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "8ea9138f38030974",
+    "id": "3e24483d1cfe40fa",
     "type": "split",
     "children": [
       {
-        "id": "f9c92d95c348fa9a",
+        "id": "260c11117b2f20ed",
         "type": "tabs",
         "children": [
           {
-            "id": "9f16ce3afd80e5ef",
+            "id": "26477c68cbf22679",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hack_the_Box/TRAVERXEC.md",
+                "file": "Hack_the_Box/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "87b39ac9597b080b",
+            "id": "28f1639234ce1b12",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hack_the_Box/TRAVERXEC.md",
+                "file": "Hack_the_Box/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "66ca82797e43e625",
+            "id": "f4d8bde671d1919c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "a132bc8ea100d0b7",
+            "id": "c982d384687d5503",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hack_the_Box/TRAVERXEC.md"
+                "file": "Hack_the_Box/Untitled.md"
               }
             }
           }
@@ -146,40 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c7d494645d7b82f",
+  "active": "64b74460fbc3711d",
   "lastOpenFiles": [
-    "00_Red_Team/Cracking.md",
+    "Hack_the_Box/SILO.md",
+    "Hack_the_Box/Untitled.md",
+    "Hack_the_Box/TRAVERXEC.md",
+    "00_Red_Team/Tooling.md",
+    "00_Red_Team/Metasploit.md",
+    "00_Red_Team/Dictionary.md",
+    "00_Red_Team/Cheat Sheets and Resources.md",
+    "00_Red_Team/Hack the Box (dumping ground).md",
     "00_Red_Team/Exfil.md",
     "00_Red_Team/Exploitation Workflow - Linux.md",
-    "Hack_the_Box/TRAVERXEC.md",
-    "00_Red_Team/Hack the Box (dumping ground).md",
-    "00_Red_Team/Cheat Sheets and Resources.md",
-    "Hack_the_Box",
-    "00_Red_Team/Dictionary.md",
-    "00_Red_Team/Metasploit.md",
-    "00_Red_Team/NMAP.md",
+    "00_Red_Team/Escalation.md",
+    "00_Red_Team/Cracking.md",
     "00_Red_Team/WinRM.md",
+    "00_Red_Team/Web App.md",
+    "00_Red_Team/SMB.md",
+    "00_Red_Team/NMAP.md",
+    "00_Red_Team/Handy Linux Shortcuts.md",
+    "Hack_the_Box",
     "Pasted image 20231202144404.png",
     "Pasted image 20231202143545.png",
-    "Untitled.md",
-    "Untitled",
-    "00_Red_Team/Handy Linux Shortcuts.md",
-    "00_Red_Team/Web App.md",
-    "00_Red_Team/Escalation.md",
-    "00_Red_Team/SMB.md",
     "01_Blue_Team/Forensics.md",
-    "WinRM.md",
-    "Cheat Sheets and Resources.md",
     "00_Red_Team",
     "01_Blue_Team",
-    "Handy Linux Shortcuts.md",
-    "Cracking.md",
-    "SMB.md",
-    "Hack the Box (dumping ground).md",
-    "Escalation.md",
-    "Lateral Movement/Untitled.md",
-    "Password Cracking",
-    "Lateral Movement",
-    "Enumeration"
+    "Untitled.canvas"
   ]
 }
