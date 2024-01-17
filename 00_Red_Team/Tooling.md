@@ -22,9 +22,11 @@
 	- https://github.com/sqlmapproject/sqlmap
 		- [Reference Article](https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/)
 
-### Domain/Subdomain Enumeration
+### Domain/Subdomain/Web Directory Enumeration
 - subfinder
 	- https://github.com/projectdiscovery/subfinder
+- feroxbuster
+	- https://github.com/epi052/feroxbuster
 
 ### Active Directory Enumeration
 - adPEAS
